@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: 9f9b929c2c8675142a9402a4cf631d8a
+guid: 394e77fb147f1fa42b777415b7f2c8c3
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: mayTrans_0
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -82,11 +83,31 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: mayTrans_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 429
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1f674ab9e9c94195fc02be29a6553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ffe6987c2b66c0a4aa20c653c35c30f6
     vertices: []
     indices: 
     edges: []
