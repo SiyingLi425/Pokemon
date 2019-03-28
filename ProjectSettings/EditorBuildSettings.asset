@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Petalburg.unity
+    guid: d1ecea571cc6f4f478bb546b886acf64
+  - enabled: 1
+    path: Assets/Scene/PokeCenter.unity
+    guid: af18a9b7aed6b544988461bbba57c083
